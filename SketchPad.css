@@ -1,0 +1,26 @@
+.grid {
+	background-color: blue;
+	display: inline-block;
+	outline: 2px dashed yellow;
+}
+
+.container {
+	margin: 50px auto;
+	width: 960px;
+	height: auto;
+	border: 1px solid red;
+	font-size: 0;
+}
+
+.button {
+	text-decoration: none;
+	background-color: green;
+	color: white;
+	padding: 10px 20px 10px 20px;
+}
+
+.header {
+	margin: 40px auto;
+	text-align: center;
+}
+
